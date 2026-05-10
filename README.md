@@ -1,0 +1,1 @@
+I built a Qt C++ ground station application using QML and OpenGL for real-time satellite monitoring. It communicates through UDP and TCP to receive telemetry and camera data, displays live status on an interactive map, and renders a 3D satellite model. The system is modular, efficient, and designed for scalability and visualization performance.
