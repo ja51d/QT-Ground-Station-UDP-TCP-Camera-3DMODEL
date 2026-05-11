@@ -4,4 +4,4 @@ I built a Qt C++ ground station application using QML and OpenGL for real-time s
 
 <img width="1680" height="1050" alt="Screenshot 2026-05-11 at 12 44 59 PM" src="https://github.com/user-attachments/assets/56d40fdb-041b-4bca-bb9c-ad0ae0294547" />
 
-Under the 3D Model, there is supposed to be a video feed but I did not have source this time, normally the connection is url https.
+Under the 3D Model, there is supposed to be a video feed but I did not have source this time. The connection is url https.
